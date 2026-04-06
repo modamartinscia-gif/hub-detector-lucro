@@ -1,0 +1,10 @@
+{
+  "shopee": [
+    { "max": 79.99, "perc": 0.20, "fixa": 4.00 },
+    { "max": 99.99, "perc": 0.14, "fixa": 16.00 },
+    { "max": 199.99, "perc": 0.14, "fixa": 20.00 },
+    { "max": 999999.00, "perc": 0.14, "fixa": 26.00 }
+  ],
+  "mercadolivre": { "perc": 0.16, "fixa": 0.00 },
+  "shein": { "perc": 0.16, "fixa": 0.00 }
+}
