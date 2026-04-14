@@ -6,8 +6,8 @@
     { "max": 999999.00, "perc": 0.14, "fixa": 26.00 }
   ],
   "mercadolivre": {
-    "classico": { "perc": 0.12, "fixa": 6.50, "limiteFixa": 78.99 },
-    "premium": { "perc": 0.17, "fixa": 6.50, "limiteFixa": 78.99 }
+    "classico": { "perc": 0.13, "fixa": 6.50, "limiteFixa": 78.99 },
+    "premium": { "perc": 0.18, "fixa": 6.50, "limiteFixa": 78.99 }
   },
   "shein": { "perc": 0.16, "fixa": 0.00 }
 }
